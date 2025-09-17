@@ -10,5 +10,3 @@ l.reverse()
 print(l)
 l.remove(3)
 print(l)
-count1 = [0] * 26
-print(count1)
