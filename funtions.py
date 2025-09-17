@@ -22,3 +22,6 @@ def update(x):
 b = 10
 update(b)
 print(b)
+def add(a,b,c=2):
+    return a + b + c
+print(add(10,12))
